@@ -1,4 +1,6 @@
 # Multitask Learning for Authenticity and Authorship Detection
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14804398.svg)](https://doi.org/10.5281/zenodo.14804398)
+
 
 Welcome to the **misinfo-detect** repository, containing **code** and a **subset** of the dataset supporting our research on **joint detection of fake news (authenticity) and AI-generated text (authorship)**. Our work introduces novel architectures—such as the Shared-Private Synergy Model (SPSM)—that simultaneously improve classification accuracy and interpretability across both tasks.
 
